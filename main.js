@@ -23,3 +23,15 @@ enunciado: “Pergunta 2”,
 alternativas: [“Alternativa 1”, “Alternativa 2”],
 },
 ];
+let atual = 0;
+let perguntaAtual;
+
+function mostrarPergunta(){
+  perguntaAtual = perguntas [atual];
+  caixaPerguntas. textContent = perguntaAtual.enunciado;
+  caixaAlternativas.textContent.textContent = "";
+  mostraAlternativas();
+} 
+function mostraAlternativas(){
+  for (const alternativa of perguntaAtual. alternativas){
+    const botao
