@@ -6,44 +6,44 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Quais são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
+    enunciado: "vamo te juae a escolher uma scuderia na F1. Começamos ecolhendo uma cor",
     alternativas: [
         {
-            texto:"Custos elevados",
-            afirmacao: "afirmação 1"
+            texto:"vermelho",
+            afirmacao: "ferrari"
         },
         {
-        texto:"Conscientização e educação",
-        afirmacao: "afirmação 2"
+        texto:"azul",
+        afirmacao: "ferrari"
         }
     ]
 },
 
 {
-    enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+    enunciado: "agora escolha um piloto.",
     alternativas: [
         {
 
-        texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
-        afirmacao: "afirmação 3"
+        texto: "lecrec",
+        afirmacao: "ferrari"
         },
         {
-        texto:"Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
-        afirmacao: "afirmação 4"
+        texto:"verstapen",
+        afirmacao: "ferrari"
         }
     ]
 },
 
 {
-    enunciado: "Quais são os benefícios do uso de recursos tecnológicos para promover a acessibilidade em diferentes ambientes?",
+    enunciado: "agora uma pista",
     alternativas: [
         {
-        texto:"Promover a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
-        afirmacao: "afirmação 5"
+        texto:"GP de São paulo",
+        afirmacao: "ferrari"
         },
         {
-        texto:"Defender políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
-        afirmacao: "afirmação 6"
+        texto:"GP e Imola",
+        afirmacao: "ferrari"
         }
     ]
 }
