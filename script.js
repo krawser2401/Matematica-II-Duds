@@ -24,11 +24,11 @@ const perguntas = [
     alternativas: [
         {
 
-        texto: "lecrec",
+        texto: " Leclerc",
         afirmacao: "escolha a Ferrari"
         },
         {
-        texto:"verstapen",
+        texto:"Verstappen",
         afirmacao: "escolha a Ferrari"
         }
     ]
