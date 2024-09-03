@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "vamo te juae a escolher uma scuderia na F1. Começamos ecolhendo uma cor",
+    enunciado: "vamo te ajudar a escolher uma scuderia na F1. Começamos ecolhendo uma cor",
     alternativas: [
         {
             texto:"vermelho",
@@ -14,7 +14,7 @@ const perguntas = [
         },
         {
         texto:"azul",
-        afirmacao: "ferrari"
+        afirmacao: "Red Bull"
         }
     ]
 },
@@ -39,11 +39,11 @@ const perguntas = [
     alternativas: [
         {
         texto:"GP de São paulo",
-        afirmacao: "ferrari"
+        afirmacao: "ferrari. Como resultado final escolha a Ferrari como scuderia"
         },
         {
         texto:"GP e Imola",
-        afirmacao: "ferrari"
+        afirmacao: "ferrari. Como resultado final escolha a Ferrari como scuderia"
         }
     ]
 }
