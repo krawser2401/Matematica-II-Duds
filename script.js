@@ -10,11 +10,11 @@ const perguntas = [
     alternativas: [
         {
             texto:"vermelho",
-            afirmacao: "ferrari"
+            afirmacao: "Como resultado final"
         },
         {
         texto:"azul",
-        afirmacao: "Red Bull"
+        afirmacao: "Como resultado final"
         }
     ]
 },
@@ -25,11 +25,11 @@ const perguntas = [
         {
 
         texto: "lecrec",
-        afirmacao: "ferrari"
+        afirmacao: "escolha a Ferrari"
         },
         {
         texto:"verstapen",
-        afirmacao: "ferrari"
+        afirmacao: "escolha a Ferrari"
         }
     ]
 },
@@ -39,11 +39,11 @@ const perguntas = [
     alternativas: [
         {
         texto:"GP de São paulo",
-        afirmacao: "ferrari. Como resultado final escolha a Ferrari como scuderia"
+        afirmacao: "como scuderia"
         },
         {
         texto:"GP e Imola",
-        afirmacao: "ferrari. Como resultado final escolha a Ferrari como scuderia"
+        afirmacao: "como scuderia"
         }
     ]
 }
